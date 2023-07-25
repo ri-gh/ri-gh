@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ri-gh
 - 👀 I’m interested in Python programming , data, data viz , data analysis, API...
 - 🌱 I’m currently learning as a beginner in the data world, start from the bottom :)
-- 💞️ I’m looking to collaborate on how to code, how to improve my coding skills and to learn !!!
+- 💞️ I’m looking to collaborate on how to code, how to improve my coding skills and learn more languages
 - 📫 How to reach me ... I'll reach you don't worry 
 
 <!---
